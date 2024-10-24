@@ -1,0 +1,12 @@
+.gridy{
+    display:grid;
+grid-template-columns: auto auto auto;
+justify-content: space-evenly;
+}
+.gridy img{
+    width: 100%;
+}
+
+.center{
+    text-align: center;
+}
