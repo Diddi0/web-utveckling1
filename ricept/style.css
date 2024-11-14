@@ -1,0 +1,42 @@
+html{
+    width: 100%;
+}
+
+body {
+    margin: 0px;
+    min-width: 100%;
+}
+
+.grid{
+    display:grid;
+    grid-template-columns: 50% 50%;
+    justify-items: center;
+    width: 100%;
+
+}
+
+.grid p {
+    font-size: 2rem;
+}
+
+.grid2{
+    display:grid;
+    grid-template-columns: 50% 50%;
+}
+
+
+
+.grid2 div h1{
+    font-size: 3rem;
+}
+
+.grid2 img {
+    width: 100%;
+}
+.small{
+
+}
+
+ul {
+    list-style-type: none;
+}
