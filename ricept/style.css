@@ -33,10 +33,22 @@ body {
 .grid2 img {
     width: 100%;
 }
-.small{
 
-}
 
 ul {
     list-style-type: none;
+}
+
+
+input {
+    width: 20px;
+    height: 20px;
+}
+
+a {
+    color:rgb(0, 42, 253)
+}
+
+.color-background {
+    background-color: orchid;
 }
