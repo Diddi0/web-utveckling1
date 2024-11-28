@@ -52,3 +52,11 @@ a {
 .color-background {
     background-color: orchid;
 }
+
+.checked {
+    color: orange;
+  }
+  h1 a{
+    color: black;
+    text-decoration: none;
+  }
