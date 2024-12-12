@@ -2,15 +2,24 @@ let input1 = document.getElementById("input1")
 let input2 = document.getElementById("input2")
 let result = document.getElementById("result")
 
-function createMail(){
+function createMail() {
     result.innerHTML = input1.value + "." + input2.value + "@mail.com"
 
 }
 
 
-function randomfärg(){
-const r = math.floor(math.random() * 256)
-const g = math.floor(math.random() * 256)
-const b = math.floor(math.random() * 256)
+function slumpaFarg() {
+
+    const r = Math.floor(Math.random() * 256);
+    const g = Math.floor(Math.random() * 256);
+    const b = Math.floor(Math.random() * 256);
+
+    const farg = `rgb(${r}, ${g}, ${b})`;
+    document.body.style.backgroundColor = farg;
 }
+
+window.onload = slumpaFarg;
+
+
+
 
