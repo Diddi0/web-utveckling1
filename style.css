@@ -1,2 +1,19 @@
 .back {background-color: indigo;}
-.freddy
+
+.profil_bild{
+    width: 200px;
+   margin-left: 400px;
+}
+
+.midle{
+    text-align: center;
+    color: blue;
+}
+
+.top_margin{
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: blue;
+}
+
