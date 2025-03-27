@@ -1,0 +1,15 @@
+.grid{
+    display: grid;
+    grid-template-columns:33% 33% 33%;
+    grid-template-rows: auto;
+}
+
+.imgs{
+    width: 60%;
+    height: 40%;
+}
+
+.img{
+    width:  1000px;
+    height: 300px;
+}
