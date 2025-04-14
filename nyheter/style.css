@@ -13,3 +13,40 @@
     width:  1000px;
     height: 300px;
 }
+
+.ad-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+     
+}
+
+.ad-container h1 {
+    color: #ff6347;
+}
+
+.ad-container p {
+    font-size: 1.2em;
+}
+
+.ad-container button {
+    background-color: #ff6347;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.ad-container button:hover {
+    background-color: #ff4500;
+}
+
+.img-ad{
+    width: 30%;
+    height: 20%;
+    margin-left: 35%;
+    margin-right: 50%;
+}
