@@ -4,9 +4,9 @@ nav {
     align-items: center;
 }
 
-.textsize{
+.textsize {
     text-align: center;
-    
+
 }
 
 .socials {
@@ -15,12 +15,12 @@ nav {
     width: 30%;
 }
 
-.socials a{
+.socials a {
     width: 20%;
 
 }
 
-.socials a img{
+.socials a img {
     width: 100%;
 }
 
